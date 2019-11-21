@@ -1,0 +1,29 @@
+{
+  "name":"regions",
+  "cities": [
+    { "id":"1",
+      "name":"Delhi",
+       "localities":[
+         {"id":"1",
+           "name":"Secor 1"
+           },
+            {"id":"2",
+           "name":"Secor 2"
+           }
+          ] 
+      
+    },
+    { "id":"2",
+      "name":"Pune",
+       "localities":[
+         {"id":"1",
+           "name":"Secor 1"
+           },
+            {"id":"2",
+           "name":"Secor 2"
+           }
+          ] 
+      
+    }
+  ]
+ }
